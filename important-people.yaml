@@ -1,68 +1,87 @@
 Venkat Subramaniam:
-    - Scala
-    - Java
-    - Functional Programming
-    - Groovy
-    - Design patterns
+    topics:
+        - Scala
+        - Java
+        - Functional Programming
+        - Groovy
+        - Design patterns
 Raymond Hettinger:
-    - Python
-    - Clean Code
-    - Efficiency
-    - Pythonic
-    - Beyond PEP 8
+    topics: 
+        - Python
+        - Clean Code
+        - Efficiency
+        - Pythonic
+        - Beyond PEP 8
 Rich Hickey:
-    - Clojure
-    - Functional Programming
-    - Architecture
-Mark Seeman:
-    - Functional Programming
+    topics:
+        - Clojure
+        - Functional Programming
+        - Architecture
+Mark Seemann:
+    topics:
+        - Functional Programming
+    talks:
+        - From Dependency injection to dependency rejection.
+        - Functional Architecture - the pitts of success
 Robert C. Martin:
-    - Clean Code
-    - Functional Programming
-    - Clean Architecture
-    - TDD
+    topics:
+        - Clean Code
+        - Functional Programming
+        - Clean Architecture
+        - TDD
 Scott Meyers:
-    - new C++ 
-    - efficiency and cachelines
+    topics:
+        - new C++ 
+        - efficiency and cachelines
 Herb Sutter:
-    - concurrency
-    - C++
+    topics:
+        - concurrency
+        - C++
 Bjarne Stroustrup:
-    - C++
-    - concurrency
-    - efficiency
+    topics:
+        - C++
+        - concurrency
+        - efficiency
 Joe Armstrong:
-    - Erlang
-    - concurrency
-    - architecture
-    - fast fail
+    topics:
+        - Erlang
+        - concurrency
+        - architecture
+        - fast fail
 Jarosław Pałka:
-    - JVM
-    - optimization
-    - Spring and JEE suck
+    topics:
+        - JVM
+        - optimization
+        - Spring and JEE suck
 Miško Hevery:
-    - architecture
-    - OOP
-    - avoiding gloabl state and singletons 
-    - TDD and testability
+    topics:
+        - architecture
+        - OOP
+        - avoiding gloabl state and singletons 
+        - TDD and testability
 Fun Fun Function:
-    - Functional Programming
-    - TDD
-    - good practices 
+    topics:
+        - Functional Programming
+        - TDD
+        - good practices 
 Brian Beckman:
-    - Monads
-    - Functional Programming
-    - Mathematical Background for FP
+    topics:
+        - Monads
+        - Functional Programming
+        - Mathematical Background for FP
 Jarosław Ratajski:
-    - Why annotations are bad
+    topics:
+        - Why annotations are bad
 The Coding Train:
-    - JavaScript
-    - Quick Projects
-    - Quick Explainations
-    - Machine Learning
-    - Animations in JavaScript
-    - Live Coding
+    topics:
+        - JavaScript
+        - Quick Projects
+        - Quick Explainations
+        - Machine Learning
+        - Animations in JavaScript
+        - Live Coding
 Martin Fowler:
-    - clean code
-    - working with legacy code
-    - design patterns
+    topics:
+        - clean code
+        - working with legacy code
+        - design patterns

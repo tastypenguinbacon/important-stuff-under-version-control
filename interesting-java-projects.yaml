@@ -1,0 +1,13 @@
+Ratpack:
+    - Easy to configure Java Server with great Java 8 support
+    - Easy to start
+    - Good lambdas
+    - Good embedding
+
+Vavr:
+    - formely JavaSlang
+    - good FP for Java
+    - did not mess things up like Java did
+
+Guava:
+    - Googles library for basically everything

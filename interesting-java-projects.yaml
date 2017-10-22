@@ -11,3 +11,7 @@ Vavr:
 
 Guava:
     - Googles library for basically everything
+
+JOOQ:
+    - Java 8 SQL cooperation
+    - Good lamdas

@@ -94,3 +94,7 @@ CS50:
         - it's a Harvard course
     topics:
         - programming in general
+Michael Feathers:
+    topics:
+        - legacy code
+        - TDD
